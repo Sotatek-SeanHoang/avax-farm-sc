@@ -9,7 +9,6 @@ coverage
 dist
 node_modules
 types
-# deployments
 
 # files
 *.env
@@ -19,5 +18,4 @@ types
 coverage.json
 package-lock.json
 pnpm-lock.yaml
-.vscode
-.npmrc
+yarn.lock
